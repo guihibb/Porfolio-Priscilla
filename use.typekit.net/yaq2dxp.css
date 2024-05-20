@@ -1,0 +1,73 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * forma-djr-deck:
+ *   - http://typekit.com/eulas/00000000000000003b9ae4cc
+ *   - http://typekit.com/eulas/00000000000000003b9ae4cd
+ *   - http://typekit.com/eulas/00000000000000003b9ae4ce
+ *   - http://typekit.com/eulas/00000000000000003b9ae4cf
+ *   - http://typekit.com/eulas/00000000000000003b9ae4d0
+ *   - http://typekit.com/eulas/00000000000000003b9ae4d1
+ * pt-mono:
+ *   - http://typekit.com/eulas/00000000000000007735a11b
+ *   - http://typekit.com/eulas/00000000000000007735a125
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2023-06-16 20:02:33 UTC"}*/
+
+@import url("../p.typekit.net/p1ec1.css?s=1&amp;k=yaq2dxp&amp;ht=tk&amp;f=15895.43903.30341.30342.30343.30344.30345.30346&amp;a=16613889&amp;app=typekit&amp;e=css");
+
+@font-face {
+font-family:"pt-mono";
+src:url("af/7d382a/00000000000000007735a11b/30/le196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff2"),url("af/7d382a/00000000000000007735a11b/30/de196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("woff"),url("af/7d382a/00000000000000007735a11b/30/ae196?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n4&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"pt-mono";
+src:url("af/275cbc/00000000000000007735a125/30/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("af/275cbc/00000000000000007735a125/30/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("af/275cbc/00000000000000007735a125/30/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-deck";
+src:url("af/eda66c/00000000000000003b9ae4cc/27/laf99?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i5&amp;v=3") format("woff2"),url("af/eda66c/00000000000000003b9ae4cc/27/daf99?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i5&amp;v=3") format("woff"),url("af/eda66c/00000000000000003b9ae4cc/27/aaf99?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i5&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-deck";
+src:url("af/85f802/00000000000000003b9ae4cd/27/le003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff2"),url("af/85f802/00000000000000003b9ae4cd/27/de003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("woff"),url("af/85f802/00000000000000003b9ae4cd/27/ae003?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n5&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-deck";
+src:url("af/ef454a/00000000000000003b9ae4ce/27/l5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff2"),url("af/ef454a/00000000000000003b9ae4ce/27/d5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("woff"),url("af/ef454a/00000000000000003b9ae4ce/27/a5bba?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n6&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-deck";
+src:url("af/f088cf/00000000000000003b9ae4cf/27/l1f8b?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3") format("woff2"),url("af/f088cf/00000000000000003b9ae4cf/27/d1f8b?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3") format("woff"),url("af/f088cf/00000000000000003b9ae4cf/27/a1f8b?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i6&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-deck";
+src:url("af/1c001a/00000000000000003b9ae4d0/27/le265?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i7&amp;v=3") format("woff2"),url("af/1c001a/00000000000000003b9ae4d0/27/de265?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i7&amp;v=3") format("woff"),url("af/1c001a/00000000000000003b9ae4d0/27/ae265?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=i7&amp;v=3") format("opentype");
+font-display:auto;font-style:italic;font-weight:700;font-stretch:normal;
+}
+
+@font-face {
+font-family:"forma-djr-deck";
+src:url("af/9c195d/00000000000000003b9ae4d1/27/l652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff2"),url("af/9c195d/00000000000000003b9ae4d1/27/d652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("woff"),url("af/9c195d/00000000000000003b9ae4d1/27/a652f?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&amp;fvd=n7&amp;v=3") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-pt-mono { font-family: "pt-mono",monospace; }
+.tk-forma-djr-deck { font-family: "forma-djr-deck",sans-serif; }
